@@ -30,4 +30,27 @@
 
 /* Some more Text-colors :  */
 
-
+.dimgray-text{
+    color: rgb(105, 105, 105);
+}
+.dimgrey-text{
+    color: rgb(105, 105, 105);
+}
+.gray-text{
+    color: rgb(128, 128, 128);
+}
+.darkGray-text{
+    color: rgb(169, 169, 169);
+}
+.darkGrey-text{
+    color:rgb(169, 169, 169)
+}
+.silver{
+    color:rgb(192, 192, 192)
+}
+.lightGray{
+    color: rgb(211, 211, 211);
+}
+.whiteSmoke{
+    color: rgb(245, 245, 245);
+}
