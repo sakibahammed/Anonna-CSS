@@ -23,4 +23,12 @@ Yellow = yellow-text
 
 Blue = blue-text
 
+<br>
+
+Green = green-text
+
+<br>
+
+Sky Blue = skyBlue-text
+
 
