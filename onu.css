@@ -30,10 +30,10 @@
 
 /* Some more Text-colors :  */
 
-.dimgray-text{
+.dimGray-text{
     color: rgb(105, 105, 105);
 }
-.dimgrey-text{
+.dimGrey-text{
     color: rgb(105, 105, 105);
 }
 .gray-text{
@@ -45,12 +45,81 @@
 .darkGrey-text{
     color:rgb(169, 169, 169)
 }
-.silver{
+.silver-text{
     color:rgb(192, 192, 192)
 }
-.lightGray{
+.lightGray-text{
     color: rgb(211, 211, 211);
 }
-.whiteSmoke{
+.whiteSmoke-text{
     color: rgb(245, 245, 245);
+}
+.snow-text{
+    color:rgb(255, 250, 250);
+}
+.rosyBrown-text{
+    color: rgb(188, 143, 143);
+}
+.lightCoral-text{
+    color:rgb(240, 128, 128);
+}
+.indianRed-text{
+    color:rgb(205, 92, 92);
+}
+.brown-text{
+    color: rgb(165, 42, 42);
+}
+.fireBrick-text{
+    color:rgb(178, 34, 34);
+}
+.maroon-text{
+    color:rgb(128, 0, 0);
+}
+.darkRed-text{
+    color: rgb(139, 0, 0);
+}
+.mistyRose-text{
+    color: rgb(255, 228, 225);
+}
+.salmon-text{
+    color:rgb(250, 128, 114);
+}
+.tomato-text{
+    color:rgb(255, 99, 71);
+}
+.darkSalmon-text{
+    color:rgb(233, 150, 122);
+}
+.coral-text{
+    color:rgb(255, 127, 80);
+}
+.orangered-text{
+    color: rgb(255, 69, 0);
+}
+.lightSalmon-text{
+    color: rgb(255, 160, 122);
+}
+.sienna-text{
+    color:rgb(160, 82, 45);
+}
+.seashell-text{
+    color:rgb(255, 245, 238);
+}
+.chocolate-text{
+    color: rgb(210, 105, 30);
+}
+.saddleBrown-text{
+    color: rgb(139, 69, 19);
+}
+.sandyBrown-text{
+    color: rgb(244, 164, 96);
+}
+.peachpuff-text{
+    color: rgb(255, 218, 185);
+}
+.peru-text{
+    color: rgb(205, 133, 63);
+}
+.linen-text{
+    color:rgb(250, 240, 230);
 }
