@@ -1,9 +1,8 @@
-.red{
-    color:red
+/* Basic Primary Text color */
+
+.black-text{
+    color: rgb(0, 0, 0);
 }
-.green{
-    color: green;
-}
-.blue{
-    color: blue;
+.white-text{
+    color: rgb(255, 255, 255);
 }
