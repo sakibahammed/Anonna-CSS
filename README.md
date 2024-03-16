@@ -3,6 +3,7 @@
 
 <h2>Basic Color text</h2>
 
-Black == black-text 
-white == white-text
+#Black == black-text 
+<br>
+#white == white-text
 
