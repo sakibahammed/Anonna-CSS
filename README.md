@@ -3,24 +3,24 @@
 
 <h2>Basic Color text</h2>
 
-# Black = black-text 
+Black = black-text 
 
 <br>
 
-# White = white-text
+White = white-text
 
 <hr>
 
 <h2> Primary Colors of Text </h2>
 
-# Red = red-text
+Red = red-text
 
 <br>
 
-# Yellow = yellow-text
+Yellow = yellow-text
 
 <br>
 
-# Blue = blue-text
+Blue = blue-text
 
 
